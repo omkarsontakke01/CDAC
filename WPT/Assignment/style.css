@@ -1,0 +1,44 @@
+
+input {
+    color: darkgreen;
+    background-color: #e0ffe0;
+    font-style: normal;
+    border: 2px dashed green;
+}
+
+p {
+    color: navy;
+    background-color: #f0f8ff;
+    font-style: italic;
+    border: 1px solid black;
+}
+
+select {
+    color: maroon;
+    background-color: #fff0f0;
+    font-style: oblique;
+    border: 2px dotted red;
+}
+
+
+.moderate {
+    color: teal;
+    background-color: #d0f0f0;
+    font-style: normal;
+    border: 2px solid teal;
+}
+
+.gaudy {
+    color: purple;
+    background-color: yellow;
+    font-style: italic;
+    border: 4px double purple;
+}
+
+
+#id1 {
+    color: white;
+    background-color: black;
+    font-style: normal;
+    border: 3px groove gray;
+}
