@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\bin\Debug\net8.0\Day_2.exe
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\bin\Debug\net8.0\Day_2.deps.json
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\bin\Debug\net8.0\Day_2.runtimeconfig.json
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\bin\Debug\net8.0\Day_2.dll
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\bin\Debug\net8.0\Day_2.pdb
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\obj\Debug\net8.0\Day_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\obj\Debug\net8.0\Day_2.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\obj\Debug\net8.0\Day_2.AssemblyInfo.cs
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\obj\Debug\net8.0\Day_2.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\obj\Debug\net8.0\Day_2.dll
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\obj\Debug\net8.0\refint\Day_2.dll
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\obj\Debug\net8.0\Day_2.pdb
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\obj\Debug\net8.0\Day_2.genruntimeconfig.cache
+C:\Users\IET\Desktop\CoreNet\CoreNet\ConsoleApp2\obj\Debug\net8.0\ref\Day_2.dll
